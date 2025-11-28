@@ -1,7 +1,0 @@
-torch
-torchaudio
-transformers
-librosa
-soundfile
-ffmpeg-python
-accelerate
